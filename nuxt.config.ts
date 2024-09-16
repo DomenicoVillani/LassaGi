@@ -5,7 +5,7 @@ export default defineNuxtConfig({
   primevue: {
     options: { ripple: true },
     components: {
-      exclude: ['Editor'],
+      exclude: ['Editor', 'Chart'],
     },
     directives: {
       include: ['Tooltip', 'Badge', 'Ripple'],
