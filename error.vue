@@ -10,7 +10,7 @@ const currentUrl = decodeURIComponent(route.fullPath);
         <div class=" align-content-center">
             <div class="flex justify-content-center">
                 <h1 class="text-viola text-center">
-                    ERROR
+                    ERROR prova
                 </h1>
             </div>
 
